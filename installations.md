@@ -10,16 +10,24 @@
 * statsmodels
 * googlemaps
 * mplleaflet
+* bokeh
+* folium
+* osmnx
+* networkx
+* cartopy
 
 To install the required packages, run anaconda prompt as administrator.
 Make sure that conda-forge channel is your default channel, type following:  
 `conda config --add channels conda-forge`
 
 Install the packages:    
-Type following one by one and when asked 'Proceed ([y]/n)?' type `y` and hit Enter  
+Type following one by one and when asked 'Proceed ([y]/n)?' type `y` and hit Enter. Most of the packages have a number of dependecnies that will be installed along the way. Just say `y` to them all.
 * `conda install geopandas`
 * `conda install rasterio`
 * `conda install statsmodels`
 * `conda install googlemaps`
 * `conda install mplleaflet`
-*
+* `conda install bokeh`
+* `conda install folium`
+* `conda install networkx`
+* `conda install cartopy`
