@@ -1,7 +1,7 @@
 ## Install Anaconda's distribution of Python for **ALL USERS**
 * Download Anaconda from https://www.anaconda.com/download
 * Select the appropriate for your OS Python Graphical Installer. For this course, we will be using Python 3.
-* Run the executable. For the location, install directly under C:\ drive.  
+* Run the executable. For the location, install under C:\ drive. make a folder “Python3” if necessary.
   When asked, check **All Users** box and check **Add Anaconda to my PATH environment variable** box
 
 ## Packages to install
@@ -16,7 +16,7 @@
 * networkx
 * cartopy
 
-To install the required packages, run anaconda prompt as administrator.
+To install the required packages, run anaconda prompt **as administrator**.
 Make sure that conda-forge channel is your default channel, type following:  
 `conda config --add channels conda-forge`
 
