@@ -14,6 +14,7 @@
 * folium
 * osmnx
 * networkx
+* pandana
 * cartopy
 
 To install the required packages, run anaconda prompt **as administrator**.
@@ -30,4 +31,5 @@ Type following one by one and when asked 'Proceed ([y]/n)?' type `y` and hit Ent
 * `conda install bokeh`
 * `conda install folium`
 * `conda install networkx`
+* `conda install pandana`
 * `conda install cartopy`
