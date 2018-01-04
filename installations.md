@@ -14,8 +14,8 @@
 * folium
 * osmnx
 * networkx
-* pandana
-* cartopy
+* pandana 
+
 
 To install the required packages, run anaconda prompt **as administrator**.
 Make sure that conda-forge channel is your default channel, type following:  
@@ -32,4 +32,4 @@ Type following one by one and when asked 'Proceed ([y]/n)?' type `y` and hit Ent
 * `conda install folium`
 * `conda install networkx`
 * `conda install pandana`
-* `conda install cartopy`
+
