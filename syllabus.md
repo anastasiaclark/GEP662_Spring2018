@@ -32,7 +32,7 @@ After successfully completing this course, you are expected to be able to:
 
 * Understand fundamental programming concepts  
 * Understand basics of working with data in Python    
-* Use Python to import, create, manipulate and analyse spatial data in different formats
+* Use Python to import, create, manipulate and analyze spatial data in different formats
 * Use Python to extract valuable insight from spatial and tabular data  
 * Visualize data and create (interactive) maps using Python  
 * Independently research and debug code-related issues  
@@ -85,26 +85,24 @@ Good documentation of the code and adhereing to the best programming practices w
 
 ## Weekly Schedule 
 
-Week #   |Day    |Topics |Do/Read before class |Due Assignment|
+Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 ---------|-------|-------|---------|-----------|
 1         |Jan 30 |Python Basics: Variables & Types; Interpreters: Spyder & Jupyter Notebook|Python for Everybody: Ch 1||
 2|Feb 6|Python Data Structures & Control Flow|Automate the Boring Stuff with Python: Ch 2,3 & 4|Assignment 1: My Intro Script|
 3|Feb 13|Python Basics: Dictionaries & More Custom Functions |Automate the Boring Stuff with Python: Ch 5,  Python for Everybody: Ch4|Assignment 2|
-4|Feb 20|Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 3|
-5|Feb 27|Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 4|
-6|Mar 6| Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
-7|Mar 13| Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 6 |
-8|Mar 20|More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 7|
-9|date| Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc) and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)| Assignment 8|
-10|date|Making Maps in Python: Matplotlib, folium||Assignment 9|
-11|date|Interactive Maps with Bokeh||Final Assignment Idea Description|
-12|date|Workinng with raster data in Python: GDAL, NymPy, rasterio||Final Assigment pseudo-code|
-13|date|Spatial weights with PySAL||Work on your final assignment|
-14|date|ESDA with PySAL||Work on your final assignment|
-15|date|Introduction to version control: Git and Github||Final Assignment|
-16|||||
-
-
+|Feb 20|Classes follow a Monday schedule|| |
+4|Feb 27|Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 3|
+5|Mar 6|Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 4|
+6|Mar 13| Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
+7|Mar 20| Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 6 |
+8|Mar 27|More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 7|
+9|Apr 10| Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc) and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)| Assignment 8|
+10|Apr 17|Making Maps in Python: Matplotlib, folium||Assignment 9|
+11|Apr 24|Interactive Maps with Bokeh||Final Assignment Idea Description|
+12|May 1|Workinng with raster data in Python: GDAL, NymPy, rasterio||Final Assigment pseudo-code|
+13|May 8|Spatial weights with PySAL||Work on your final assignment|
+14|May 15|ESDA with PySAL||Work on your final assignment|
+15|May 22|Introduction to version control: Git and Github||Final Assignment|
 
 
 ## Course Policies 
@@ -123,7 +121,7 @@ Since the lectures take place in a computer lab, the following additional rules 
 A grade of incomplete will only be considered if you are clearly making a good faith effort to complete the course (i.e., attending regularly, participating in discussions) and have a good reason for not completing the work.  
 
 * **Dropping** 
-The last day to drop the course with the grade of “W” is April 11 (no refund).  
+The last day to drop the course with the grade of “W” is April 16 (no refund).  
 
 * **Academic dishonesty** 
 Academic dishonesty will not be tolerated.  Academic dishonesty includes, but is not limited to, cheating, plagiarizing (including “cutting and pasting” or paraphrasing information from the internet without proper citation), fabricating information or citations, facilitating acts of academic dishonesty by others, submitting work of another person or papers written for other courses, or tampering with the academic work of other students.  Students may be asked to submit their notes and references to prove that their work is their own. For further clarification, please read CUNY's policy on academic integrity at http://www.lehman.edu/provost/documents/academic-integrity.pdf. Violators will be reported to the head of the Department and to the Dean of Student Affairs.   
