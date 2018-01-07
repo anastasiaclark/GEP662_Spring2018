@@ -93,8 +93,8 @@ Week #   |Day    |Topics |Do/Read before class |Due Assignment|
 4|Feb 20|Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 3|
 5|Feb 27|Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 4|
 6|Mar 6| Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
-7|Mar 13| Midterm; Working with vector data in Python: Introduction to Geopandas| [Geopandas documentation] (http://geopandas.org/)|Assignment 6 |
-8|Mar 20|More Overlay Operations with Geopandas|reading|Assignment 7|
+7|Mar 13| Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 6 |
+8|Mar 20|More Overlay Operations with Geopandas and reading data from |reading|Assignment 7|
 9|date| Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc) and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)| Assignment 8|
 10|date|Making Maps in Python: Matplotlib, folium||Assignment 9|
 11|date|Interactive Maps with Bokeh||Final Assignment Idea Description|
