@@ -42,12 +42,12 @@ Type following one by one and when asked 'Proceed ([y]/n)?' type `y` and hit Ent
   <img src='img/anaconda_py3.png' width="50%">
 * Run the executable. Click **Next**, agree to the terms of use and choose **Install for Me Only** option. 
 
-<img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step1.png' width="40%"> 
-<img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step2.png' width="40%"> 
+<img src='img/step1.png' width="40%"> 
+<img src='img/step2.png' width="40%"> 
 
 Click **Install**.
 
-<img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step3.png' width="40%"> 
+<img src='img/step3.png' width="40%"> 
 
 If you are on Windows, you window will look slightly different. Choose **Just Me** as your *Install For* option, accept default installation folder, and check both boxes in the *Advanced options*. 
 Click **Install** and wait for the installation to be complete.
@@ -70,5 +70,5 @@ Whichever you use, type `conda config --add channels conda-forge` to make sure t
 * `conda install pandana`
 * `conda install geoplot`
 
-As an alternative, you can create a new environemnt from the provided [environemnt.yml](https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/environment.yml) file and it will be created with all the required packages for this course. Just download the file and run the command `conda env create -f environment.yml`. Then before you start working with Spyder or Jupyter notebook, run `source activate gep662` (on Mac) or `activate gep662` (on Widnows). Note, you would need to include the location of the folder when creating the environemnt. Like:
+As an alternative, you can create a new environemnt from the provided [environemnt.yml](environment.yml) file and it will be created with all the required packages for this course. Just download the file and run the command `conda env create -f environment.yml`. Then before you start working with Spyder or Jupyter notebook, run `source activate gep662` (on Mac) or `activate gep662` (on Widnows). Note, you would need to include the location of the folder when creating the environemnt. Like:
 `conda env create -f path/to/your/folder/environment.yml`
