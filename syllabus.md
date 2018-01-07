@@ -93,8 +93,15 @@ Week #   |Day    |Topics |Readings |Assignment |
 4|Feb 20|Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 4|
 5|Feb 27|Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 5|
 6|Mar 6| Midterm Review; Geometric Objects - Spatial Data Model|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 6|
-7|Mar 13| Midterm; Introduction to Geopandas| [Geopandas documentation] (http://geopandas.org/); |Assignemnt 7, [create NYC developer account] (https://developer.cityofnewyork.us/user/register?destination=user/login)|
-8|Mar 20| Geocoding in Python|[Geoclient API documentation] (https://api.cityofnewyork.us/geoclient/v1/doc)| | |
+7|Mar 13| Midterm; Introduction to Geopandas| [Geopandas documentation] (http://geopandas.org/); |Assignment 7 and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)|
+8|Mar 20| Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc)| Assignment 8|
+9||||||
+10|||||
+11|||||
+12|||||
+13|||||
+14|||||
+15|||||
 
 
 
