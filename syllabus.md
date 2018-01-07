@@ -8,7 +8,7 @@
 **Course meetings:** Gillet Hall, Rm. 322 (GISc Lab) on Tuesdays 6:00 pm to 9:30 pm 
 
 ## Readings
-There isn't a comprehensive text book for this course. We will use a combination of freely avalable books, blogs, videos and Python packages documentation as our study materials. 
+There isn't a comprehensive text book for this course. We will use a combination of freely avalable books, blogs, videos and Python packages documentation as our study materials. Chapters will be asigned from below books; other readings will be linked   in the readings section of the weekly course breakdown.
 
 * Automate the Boring Stuff with Python
     https://automatetheboringstuff.com/
@@ -19,21 +19,7 @@ https://books.trinket.io/pfe/index.html
 * LearnPython.org interactive Python tutorials
     https://www.learnpython.org/
     
-* Python Documentation
-    https://docs.python.org/3/
 
-* Pandas documentation
-    http://pandas.pydata.org/pandas-docs/stable/
-    
-* GeoPandas documentation
-    http://geopandas.org/
-    
-* Folium documentation
-    https://folium.readthedocs.io/en/latest/
-    
-* Rasterio documentation
-    https://mapbox.github.io/rasterio/index.html
-    
 **Recommended books on Python programming & GIS:** 
 * Lawhead, J. (2015) Learning Geospatial Analysis with Python: An effective guide to geographic information systems and remote sensing analysis using Python 3, Second edition. Packt Publishing. https://www.packtpub.com/application-development/learning-geospatial-analysis-python-second-edition  
 * McKinney, W. (2012) Python for Data Analysis: Data wrangling with Pandas, NumPy and iPython, First edition. O´Reilly Media. http://shop.oreilly.com/product/0636920023784.do
