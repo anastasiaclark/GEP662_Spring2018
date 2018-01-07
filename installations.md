@@ -41,9 +41,12 @@ Type following one by one and when asked 'Proceed ([y]/n)?' type `y` and hit Ent
 * Select the appropriate for your OS Graphical Installer and download it. For this course, we will be using Python 3.
   <img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/anaconda_py3.png' width="50%">
 * Run the executable. Click **Next**, agree to the terms of use and choose **Install for Me Only** option. Click **Install**.
-<img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step1.png' width="40%"> <img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step2.png' width="40%"> <img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step3.png' width="40%"> 
+<img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step1.png' width="40%"> 
+<img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step2.png' width="40%"> 
 
-I you are on Windows, you window will look slightly different. Choose **Just Me** as your *Install For* option, accept default installation folder, and check both boxes in the *Advanced options*. Click **Install** and wait for the installation to be complete.
+I you are on Windows, you window will look slightly different. Choose **Just Me** as your *Install For* option, accept default installation folder, and check both boxes in the *Advanced options*. 
+<img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step3.png' width="40%"> 
+Click **Install** and wait for the installation to be complete.
 
 Anaconda's distribution of Python comes with lots of usefull packages, but we will need to install a few more to enable our work with spatial data. Anaconda also comes with its own package manager, [conda](https://conda.io/docs/user-guide/concepts.html#conda-packages), which makes packages handling very easy. On Mac OS/linux, you can run conda commands from your regular terminal. On Windows, you will find Anaconda Prompt under *Start Menu* or you can use your regular command prompt. Whichever you use, type `conda config --add channels conda-forge` to make sure that conda-forge is added to your channels. Now, to install the required packages, type below commands one by one. When asked 'Proceed ([y]/n)?' type `y` and hit Enter. Most of the packages have a number of dependecnies that will be installed along the way. Just say `y` to them all.
 
