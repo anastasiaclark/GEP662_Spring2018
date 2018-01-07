@@ -49,7 +49,7 @@ Click **Install**.
 
 <img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step3.png' width="40%"> 
 
-I you are on Windows, you window will look slightly different. Choose **Just Me** as your *Install For* option, accept default installation folder, and check both boxes in the *Advanced options*. 
+If you are on Windows, you window will look slightly different. Choose **Just Me** as your *Install For* option, accept default installation folder, and check both boxes in the *Advanced options*. 
 Click **Install** and wait for the installation to be complete.
 
 Anaconda's distribution of Python comes with lots of usefull packages, but we will need to install a few more to enable our work with spatial data. Anaconda also comes with its own package manager, [conda](https://conda.io/docs/user-guide/concepts.html#conda-packages), which makes packages handling very easy.  
