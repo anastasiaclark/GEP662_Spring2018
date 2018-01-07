@@ -104,7 +104,7 @@ Week #   |Day    |Topics |Readings |Assignment |
 3|Feb 13|Python Basics: Dictionaries & More Custom Functions |Automate the Boring Stuff with Python: Ch 5,  Python for Everybody: Ch4|Assignment 3|
 4|Feb 20|Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 4|
 5|Feb 27|Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 5|
-6|Mar 3| Midterm Review; Geometric Objects - Spatial Data Model|[Shapely User Manual](https://toblerity.org/shapely)/manual.html |
+6|Mar 3| Midterm Review; Geometric Objects - Spatial Data Model|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|
 
 
 
