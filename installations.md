@@ -39,9 +39,9 @@ Type following one by one and when asked 'Proceed ([y]/n)?' type `y` and hit Ent
 ## Install Anaconda's distribution of Python on your machine
 * Download Anaconda from https://www.anaconda.com/download
 * Select the appropriate for your OS Graphical Installer and download it. For this course, we will be using Python 3.
-  <img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/anaconda_py3.png'>
+  <img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/anaconda_py3.png'=250x250>
 * Run the executable. Click **Next**, agree to the terms of use and choose **Install for Me Only** option. Click **Install**.
-<img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step1.png'> <img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step2.png'> <img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step3.png'> 
+<img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step1.png=250x250'> <img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step2.png=250x250'> <img src='https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/img/step3.png=250x250'> 
 
 I you are on Windows, you window will look slightly different. Choose **Just Me** as your *Install For* option, accept default installation folder, and check both boxes in the *Advanced options*. Click **Install** and wait for the installation to be complete.
 
