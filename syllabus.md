@@ -8,7 +8,7 @@
 **Course meetings:** Gillet Hall, Rm. 322 (GISc Lab) on Tuesdays 6:00 pm to 9:30 pm 
 
 ## Readings
-There isn't a comprehensive text book for this course. We will use a combination of freely avalable books, blogs, videos and Python packages documentation as our study materials. Chapters will be asigned from below books; other readings will be linked   in the readings section of the [weekly schedule breakdown](#wkly)
+There isn't a comprehensive text book for this course. We will use a combination of freely avalable books, blogs, videos and Python packages documentation as our study materials. Chapters will be asigned from below books; other readings will be linked   in the readings section of the [weekly schedule breakdown](# weekly-schedule)
 
 * Automate the Boring Stuff with Python
     https://automatetheboringstuff.com/
@@ -83,7 +83,7 @@ The final assignment will be a Python script or program created by you and shoul
 
 Good documentation of the code and adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final assignment. 
 
-## Weekly Schedule {#wkly}
+## Weekly Schedule 
 
 Week #   |Day    |Topics |Readings |Assignment |
 ---------|-------|-------|---------|-----------|
