@@ -85,23 +85,23 @@ Good documentation of the code and adhereing to the best programming practices w
 
 ## Weekly Schedule 
 
-Week #   |Day    |Topics |Readings |Assignment |
+Week #   |Day    |Topics |Do/Read before class |Due Assignment|
 ---------|-------|-------|---------|-----------|
-1         |Jan 30 |Python Basics: Variables & Types; Interpreters: Spyder & Jupyter Notebook|Python for Everybody: Ch 1| My Intro Script|
-2|Feb 6|Python Data Structures & Control Flow|Automate the Boring Stuff with Python: Ch 2,3 & 4|Assignment 2|
-3|Feb 13|Python Basics: Dictionaries & More Custom Functions |Automate the Boring Stuff with Python: Ch 5,  Python for Everybody: Ch4|Assignment 3|
-4|Feb 20|Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 4|
-5|Feb 27|Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 5|
-6|Mar 6| Midterm Review; Geometric Objects - Spatial Data Model|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 6|
-7|Mar 13| Midterm; Introduction to Geopandas| [Geopandas documentation] (http://geopandas.org/); |Assignment 7 and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)|
-8|Mar 20| Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc)| Assignment 8|
-9||||||
-10|||||
-11|||||
-12|||||
-13|||||
-14|||||
-15|||||
+1         |Jan 30 |Python Basics: Variables & Types; Interpreters: Spyder & Jupyter Notebook|Python for Everybody: Ch 1||
+2|Feb 6|Python Data Structures & Control Flow|Automate the Boring Stuff with Python: Ch 2,3 & 4|Assignment 1:My Intro Script|
+3|Feb 13|Python Basics: Dictionaries & More Custom Functions |Automate the Boring Stuff with Python: Ch 5,  Python for Everybody: Ch4|Assignment 2|
+4|Feb 20|Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 3|
+5|Feb 27|Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 4|
+6|Mar 6| Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
+7|Mar 13| Midterm; Working with vector data in Python: Introduction to Geopandas| [Geopandas documentation] (http://geopandas.org/) and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login) |Assignment 6 |
+8|More Overlay Operations with Geopandas||||
+9|Mar 20| Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc)| Assignment 7|
+10||Making Maps in Python: Matplotlib, folium|||Assignment 8|
+11||Interactive Maps with Bokeh||Final Assignment Idea Description|
+12||Workinng with raster data in Python: GDAL, NymPy, rasterio||Final Assigment pseudo-code|
+13||Spatial weights & ESDA with PySAL|Work on your final assignment||
+14||Python and ArcGIS||Work on your final assignment|
+15||Introduction to version control: Git and Github||Final Assignment|
 
 
 
