@@ -25,7 +25,7 @@ https://books.trinket.io/pfe/index.html
 * McKinney, W. (2012) Python for Data Analysis: Data wrangling with Pandas, NumPy and iPython, First edition. O´Reilly Media. http://shop.oreilly.com/product/0636920023784.do
 
 ## Software
-For this cource, we will primarily use the [Anaconda's distribution of Python 3](https://www.anaconda.com/download/). We will utillize two Python Development Environments, [Spyder](http://pythonhosted.org/spyder/) and [Jupyter Notebook](http://jupyter.org/). For some on-line tutorials and our very first class, we will use the standard Python 2.7 installation from ArcGIS. All the software is installed on the lab's computers. To install Anaconda and the required packages on your personal machine, [follow this instructions](https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/installations.md).
+For this cource, we will primarily use the [Anaconda's distribution of Python 3](https://www.anaconda.com/download/). We will utillize two Python Development Environments, [Spyder](http://pythonhosted.org/spyder/) and [Jupyter Notebook](http://jupyter.org/). For some on-line tutorials and our very first class, we will use the standard Python 2.7 installation from ArcGIS. All the software is installed on the lab's computers. To install Anaconda and the required packages on your personal machine, [follow this instructions](https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/installations.md#install-anacondas-distribution-of-python-on-your-machine).
 
 ## Learning Objectives
 After successfully completing this course, you are expected to be able to:
