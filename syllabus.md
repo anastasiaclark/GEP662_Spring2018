@@ -94,14 +94,15 @@ Week #   |Day    |Topics |Do/Read before class |Due Assignment|
 5|Feb 27|Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 4|
 6|Mar 6| Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
 7|Mar 13| Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 6 |
-8|Mar 20|More Overlay Operations with Geopandas and reading data from |reading|Assignment 7|
+8|Mar 20|More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 7|
 9|date| Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc) and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)| Assignment 8|
 10|date|Making Maps in Python: Matplotlib, folium||Assignment 9|
 11|date|Interactive Maps with Bokeh||Final Assignment Idea Description|
 12|date|Workinng with raster data in Python: GDAL, NymPy, rasterio||Final Assigment pseudo-code|
-13|date|Spatial weights & ESDA with PySAL||Work on your final assignment|
-14|date|Python and ArcGIS||Work on your final assignment|
+13|date|Spatial weights with PySAL||Work on your final assignment|
+14|date|ESDA with PySAL||Work on your final assignment|
 15|date|Introduction to version control: Git and Github||Final Assignment|
+16|||||
 
 
 
