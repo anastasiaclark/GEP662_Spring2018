@@ -1,6 +1,6 @@
 
 # Course Syllabus* : Introduction to Programming for GISs, Spring 2018
-*last Updated: 01/06/2018 
+*last Updated: -M date="`date "+%B%e, %Y"`"
 
 **Instructor:** Anastasia Clark  
 **E-mail:** anastasiapotupalova@gmail.com  
