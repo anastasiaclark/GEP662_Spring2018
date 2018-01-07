@@ -1,7 +1,7 @@
 ## Install Anaconda's distribution of Python for **ALL USERS** (GIS Lab)
 * Download Anaconda from https://www.anaconda.com/download
 * Select the appropriate for your OS Graphical Installer. For this course, we will be using Python 3.
-* Run the executable. For the location, install under C:\ drive. make a folder “Python3” if necessary.
+* Run the executable. For the location, install under C:\ drive; make a folder “Python3” if necessary.
   When asked, check **All Users** box and check **Add Anaconda to my PATH environment variable** box
 
 ## Packages to install
@@ -70,5 +70,5 @@ Whichever you use, type `conda config --add channels conda-forge` to make sure t
 * `conda install pandana`
 * `conda install geoplot`
 
-As an alternative, you can create a new environemnt from the provided [environemnt.yml](https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/environment.yml) file and it will be created with all the required packages for this course. Just download the file and run the command `conda env create -f environment.yml`. Then before you start working with Spyder or Jupyter notebook, run `source activate gep662` (on Mac) or `activate gep662` (on Widnows). Note, you would need to include the location of the folder when c reating the environemnt. Like:
+As an alternative, you can create a new environemnt from the provided [environemnt.yml](https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/environment.yml) file and it will be created with all the required packages for this course. Just download the file and run the command `conda env create -f environment.yml`. Then before you start working with Spyder or Jupyter notebook, run `source activate gep662` (on Mac) or `activate gep662` (on Widnows). Note, you would need to include the location of the folder when creating the environemnt. Like:
 `conda env create -f path/to/your/folder/environment.yml`
