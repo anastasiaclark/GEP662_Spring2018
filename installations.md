@@ -59,4 +59,5 @@ Anaconda's distribution of Python comes with lots of usefull packages, but we wi
 * `conda install pandana`
 * `conda install geoplot`
 
-As an alternative, you can create a new environemnt from the provided [environemnt.yml]() file and it will be created with all the required packages for this course. Just download the file and run the command `conda env create -f environment.yml`. Then before you start working with Spyder or Jupyter notebook, run `source activate gep662` (on Mac) or `activate gep662` (on Widnows). 
+As an alternative, you can create a new environemnt from the provided [environemnt.yml](https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/environment.yml) file and it will be created with all the required packages for this course. Just download the file and run the command `conda env create -f environment.yml`. Then before you start working with Spyder or Jupyter notebook, run `source activate gep662` (on Mac) or `activate gep662` (on Widnows). Note, you would need to include the location of the folder when c reating the environemnt. Like:
+`conda env create -f path/to/your/folder/environment.yml`
