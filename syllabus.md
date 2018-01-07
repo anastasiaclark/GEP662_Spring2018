@@ -8,7 +8,7 @@
 **Course meetings:** Gillet Hall, Rm. 322 (GISc Lab) on Tuesdays 6:00 pm to 9:30 pm 
 
 ## Readings
-There isn't a comprehensive text book for this course. We will use a combination of freely avalable books and Python packages documentation as our study materials. 
+There isn't a comprehensive text book for this course. We will use a combination of freely avalable books, blogs, videos and Python packages documentation as our study materials. 
 
 * Automate the Boring Stuff with Python
     https://automatetheboringstuff.com/
