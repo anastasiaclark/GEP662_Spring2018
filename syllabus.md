@@ -54,7 +54,7 @@ Questions about the assignments should be asked well before the deadline in orde
 Grades will not be curved and no grades will be dropped. Class participation includes engagement in discussions and answering the questions during lectures and demonstrations. Lateness and absence will count against participation grade.
 
 **Grade Weighting**  
-*  60% Assignments (lab and homework)  
+*  60% Homework Assignments 
 *  20% Final Assignment  
 *  10% Midterm Quiz  
 *  10% Participation    
@@ -70,18 +70,17 @@ Grades will not be curved and no grades will be dropped. Class participation inc
 The midterm quiz will be in-class and include material covered in lectures, assigned readings, and assignments. The quiz will be a combination of multiple choice questions and short write-in answers.  
 
 ## Final Assignment 
-The final assignment will be a Python script or program created by you and should be functioning properly by the last day of class. This assignment will be based on your individual interests and goals and you can choose yourself what tools / techniques / modules you want to use, but you are required to include at least **three** of the following in your script:
+The final assignment will be a Python script created by you and should be functioning properly by the last day of class. This assignment will be based on your individual interests and goals and you can choose yourself what packages/modules you want to use, but you are required to include at least **three** of the following components in your script:
 * Data munging and cleaning
 * Geocoding
-* Geoprocessing and table joins
+* Overlay operations and table joins
 * Linestrings or polygons creation from set of points/coordinates (not as a result of overlay operations)
 * Spatial Joins
-* Network analysis/routing
 * Raster Analysis
 * Maps and other vizualizations
 * more...
 
-Good documentation of the code and adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final assignment. 
+Your analysis should reproducible and well-documneted. Adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final assignment. 
 
 ## Weekly Schedule 
 
