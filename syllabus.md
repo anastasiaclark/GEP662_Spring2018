@@ -99,8 +99,8 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 10|Apr 17|Making Maps in Python: Matplotlib, folium||Assignment 9|
 11|Apr 24|Interactive Maps with Bokeh||Final Assignment Idea Description|
 12|May 1|Workinng with raster data in Python: GDAL, NymPy, rasterio||Final Assigment pseudo-code|
-13|May 8|Spatial weights with PySAL||Work on your final assignment|
-14|May 15|ESDA with PySAL||Work on your final assignment|
+13|May 8|* Spatial weights with PySAL||Work on your final assignment|
+14|May 15|* ESDA with PySAL||Work on your final assignment|
 15|May 22|Introduction to version control: Git and Github||Final Assignment|
 
 
