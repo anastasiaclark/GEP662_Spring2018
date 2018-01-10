@@ -1,6 +1,6 @@
 
 # Course Syllabus* : Introduction to Programming for GISs, Spring 2018
-*last Updated: 01/06/2018 
+*last Updated: today's date
 
 **Instructor:** Anastasia Clark  
 **E-mail:** anastasiapotupalova@gmail.com  
@@ -25,7 +25,7 @@ https://books.trinket.io/pfe/index.html
 * McKinney, W. (2012) Python for Data Analysis: Data wrangling with Pandas, NumPy and iPython, First edition. O´Reilly Media. http://shop.oreilly.com/product/0636920023784.do
 
 ## Software
-For this cource, we will primarily use the [Anaconda's distribution of Python 3](https://www.anaconda.com/download/). We will utillize two Python Development Environments, [Spyder](http://pythonhosted.org/spyder/) and [Jupyter Notebook](http://jupyter.org/). For some on-line tutorials and our very first class, we will use the standard Python 2.7 installation from ArcGIS. All the software is installed on the lab's computers. To install Anaconda and the required packages on your personal machine, [follow this instructions](https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/installations.md).
+For this cource, we will primarily use the [Anaconda's distribution of Python 3](https://www.anaconda.com/download/). We will utillize two Python Development Environments, [Spyder](http://pythonhosted.org/spyder/) and [Jupyter Notebook](http://jupyter.org/). For some on-line tutorials and our very first class, we will use the standard Python 2.7 installation from ArcGIS. All the software is installed on the lab's computers. To install Anaconda and the required packages on your personal machine, [follow this instructions](installations.md#install-anacondas-distribution-of-python-on-your-machine).
 
 ## Learning Objectives
 After successfully completing this course, you are expected to be able to:
@@ -89,7 +89,7 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 1         |Jan 30 |Python Basics: Variables & Types; Interpreters: Spyder & Jupyter Notebook|Python for Everybody: Ch 1||
 2|Feb 6|Python Data Structures & Control Flow|Automate the Boring Stuff with Python: Ch 2,3 & 4|Assignment 1: My Intro Script|
 3|Feb 13|Python Basics: Dictionaries & More Custom Functions |Automate the Boring Stuff with Python: Ch 5,  Python for Everybody: Ch4|Assignment 2|
-|Feb 20|Classes follow a Monday schedule|| |
+ No Class|Feb 20|Classes follow a Monday schedule| | |
 4|Feb 27|Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 3|
 5|Mar 6|Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 4|
 6|Mar 13| Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
