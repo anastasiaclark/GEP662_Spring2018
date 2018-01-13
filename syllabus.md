@@ -76,7 +76,7 @@ The final project will be a Python script created by you and should be functioni
 Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 ---------|-------|-------|---------|-----------|
 1|Jan 30 |Course overview, software installations, interpreters: Spyder & Jupyter Notebook, My first Python Script|Python for Everybody: Ch 1||
-2|Feb 6  |Variables and Types, Flow Control and For Loops| Python for Everybody: Ch 2,3 &5 |Assignment 1: My Intro Script|
+2|Feb 6  |Variables and Types, Flow Control and For Loops| Python for Everybody: Ch 2,3 & 5 |Assignment 1: My Intro Script|
 3|Feb 13 |Lists, Tuples & Dictionaries|Automate the Boring Stuff with Python: Ch 4 & 5|Assignment 2|
 4|Feb 20 |Functions, Lambda operator & list comprehension|Automate the Boring Stuff with Python:Ch 3, [LearnPython.org List Comprehension](https://www.learnpython.org/en/List_Comprehensions), [Lamda](https://www.python-course.eu/python3_lambda.php)|Assignment 3|
  |Feb 27 |Classes follow a Monday schedule|| |
@@ -89,8 +89,7 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 11|Apr 24|Making (Web) Maps in Python: Matplotlib, folium|[Folium documentation](https://folium.readthedocs.io/en/latest/)|Assignment 10|
 12|May 1 |Interactive Maps with Bokeh|[Bokeh documentation](https://bokeh.pydata.org/en/latest/)|Final project idea description|
 13|May 8 |Workinng with raster data in Python: rasterio and rasterstats|[rasterio documentation](https://mapbox.github.io/rasterio/quickstart.html), [rasterstats documentation](http://pythonhosted.org/rasterstats/)|Final project pseudo-code|
-14|May 15|Introduction to version control: Git and Github|[git - the simple guide](http://rogerdudler.github.io/git-guide/)
-|Work on your final assignment|
+14|May 15|Introduction to version control with Github|[git - the simple guide](http://rogerdudler.github.io/git-guide/)|Work on your final assignment|
 15|May 22|Final project presentations|No readings|Final Project|
 
 ## Course Policies 
