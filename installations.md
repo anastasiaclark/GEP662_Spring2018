@@ -43,7 +43,7 @@ Type following one by one and when asked 'Proceed ([y]/n)?' type `y` and hit Ent
 * Select the appropriate for your OS Graphical Installer and download it. For this course, we will be using Python 3.
   <img src='img/anaconda_py3.png'>
 * Run the executable. Click **Next**, agree to the terms of use and choose **Install for Me Only** option. Click **Install**.
-<img src='img/step1.png'> <img src='img/step2.png'> <img img/src='step3.png'> 
+<img src='img/step1.png' height="240"> <img src='img/step2.png'> <img src='img/step3.png'> 
 
 I you are on Windows, you window will look slightly different. Choose **Just Me** as your *Install For* option, accept default installation folder, and check both boxes in the *Advanced options*. Click **Install** and wait for the installation to be complete.
 
