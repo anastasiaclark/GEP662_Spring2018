@@ -41,7 +41,7 @@ Type following one by one and when asked 'Proceed ([y]/n)?' type `y` and hit Ent
 ## Install Anaconda's distribution of Python on your machine
 * Download Anaconda from https://www.anaconda.com/download
 * Select the appropriate for your OS Graphical Installer and download it. For this course, we will be using Python 3.
-  <img src='anaconda_py3.png'>
+  <img src='img/anaconda_py3.png'>
 * Run the executable. Click **Next**, agree to the terms of use and choose **Install for Me Only** option. Click **Install**.
 <img src='img/step1.png'> <img src='img/step2.png'> <img img/src='step3.png'> 
 
