@@ -48,10 +48,10 @@ All homework assignments are due at the beginning of class. Assignments not turn
 * Three days late, max possible grade is 25%
 * Four days late: 0%, and participation grade is impacted
 
-Questions about the assignments should be asked well before the deadline in order to give the instructor time to resolve the questions with the student. Before reaching out to the instructor for code-related help, make sure that you did your best effort and researched the question first on your own. Independent research and debugging is very important skill and it is one of our learning objectives for this class. 
+Questions about the assignments should be asked well before the deadline for assignment date. Before reaching out to the instructor for code-related help, make sure that you did your best effort and researched the question first on your own. Independent research and debugging is very important skill and it is one of our learning objectives for this class. 
 
 ## Assessment and Grading 
-Grades will not be curved and no grades will be dropped. Class participation includes engagement in discussions and answering the questions during lectures and demonstrations. Lateness and absence will count against participation grade.
+Grades will not be curved, but your lowest assignment grade will be dropped before calculating your final grade. Class participation includes engagement in discussions and answering the questions during lectures and demonstrations. Lateness and absence will count against participation grade.
 
 **Grade Weighting**  
 *  60% Homework Assignments 
@@ -65,22 +65,11 @@ Grades will not be curved and no grades will be dropped. Class participation inc
 *  C+ 77-79, C 73-76, C- 70-72  
 *  F < 70  
 
-
 ## Midterm Quiz 
 The midterm quiz will be in-class and include material covered in lectures, assigned readings, and assignments. The quiz will be a combination of multiple choice questions and short write-in answers.  
 
 ## Final Assignment 
-The final assignment will be a Python script created by you and should be functioning properly by the last day of class. This assignment will be based on your individual interests and goals and you can choose yourself what packages/modules you want to use, but you are required to include at least **three** of the following components in your script:
-* Data munging and cleaning
-* Geocoding
-* Overlay operations and table joins
-* Linestrings or polygons creation from set of points/coordinates (not as a result of overlay operations)
-* Spatial Joins
-* Raster Analysis
-* Maps and other vizualizations
-* more...
-
-Your analysis should reproducible and well-documneted. Adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final assignment. 
+The final project will be a Python script created by you and should be functioning properly by the last day of class. The project will be based on your individual interests and goals and you can choose yourself what Phython packages/modules you want to use. Your project should *reproducible*. That means that all the steps in your project, including data cleaning, analysis, and vizualization should be done in Python. Good code documentation and adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final project. 
 
 ## Weekly Schedule 
 
@@ -92,17 +81,17 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 4|Feb 20 |Functions, Lambda operator & list comprehension|Automate the Boring Stuff with Python:Ch 3, [LearnPython.org List Comprehension](https://www.learnpython.org/en/List_Comprehensions), [Lamda](https://www.python-course.eu/python3_lambda.php)|Assignment 3|
  |Feb 27 |Classes follow a Monday schedule|| |
 5|Mar 6  |Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 4|
-6|Mar 13 |Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 5|
+6|Mar 13 |Data wrangling w. Pandas|  [watch:] (https://vimeo.com/59324550), read: Python for Data Analysis: Ch 7 (handout)|Assignment 5|
 7|Mar 20 | Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 6|
 8|Mar 27 | Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 7 |
 9|Apr 10 |More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 8|
 10|Apr 17|Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc) and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)| Assignment 9|
-11|Apr 24|Making (Web) Maps in Python: Matplotlib, folium||Assignment 10|
-12|May 1 |Interactive Maps with Bokeh||Final Assignment Idea Description|
-13|May 8 |Workinng with raster data in Python: rasterio and rasterstats||Final Assigment pseudo-code|
-14|May 15|Introduction to version control: Git and Github|reading on git|Work on your final assignment|
-15|May 22|Final assignment presentations|No readings|Final Assignment|[git - the simple guide](http://rogerdudler.github.io/git-guide/)
-
+11|Apr 24|Making (Web) Maps in Python: Matplotlib, folium|[Folium documentation](https://folium.readthedocs.io/en/latest/)|Assignment 10|
+12|May 1 |Interactive Maps with Bokeh|[Bokeh documentation](https://bokeh.pydata.org/en/latest/)|Final project idea description|
+13|May 8 |Workinng with raster data in Python: rasterio and rasterstats||Final project pseudo-code|
+14|May 15|Introduction to version control: Git and Github|[git - the simple guide](http://rogerdudler.github.io/git-guide/)
+|Work on your final assignment|
+15|May 22|Final project presentations|No readings|Final Project|
 
 ## Course Policies 
 
