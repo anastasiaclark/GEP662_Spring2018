@@ -25,7 +25,7 @@ https://books.trinket.io/pfe/index.html
 * McKinney, W. (2012) Python for Data Analysis: Data wrangling with Pandas, NumPy and iPython, First edition. O´Reilly Media. http://shop.oreilly.com/product/0636920023784.do
 
 ## Software
-For this cource, we will primarily use the [Anaconda's distribution of Python 3](https://www.anaconda.com/download/). We will utillize two Python Development Environments, [Spyder](http://pythonhosted.org/spyder/) and [Jupyter Notebook](http://jupyter.org/). For some on-line tutorials and our very first class, we will use the standard Python 2.7 installation from ArcGIS. All the software is installed on the lab's computers. To install Anaconda and the required packages on your personal machine, [follow this instructions](https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/installations.md).
+For this cource, we will primarily use the [Anaconda's distribution of Python 3](https://www.anaconda.com/download/). We will utillize two Python Development Environments, [Spyder](http://pythonhosted.org/spyder/) and [Jupyter Notebook](http://jupyter.org/). For some on-line tutorials and our very first class, we will use the standard Python 2.7 installation from ArcGIS. All the software is installed on the lab's computers. To install Anaconda and the required packages on your personal machine, [follow this instructions](https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/installations.md#install-anacondas-distribution-of-python-on-your-machine).
 
 ## Learning Objectives
 After successfully completing this course, you are expected to be able to:
@@ -69,7 +69,7 @@ Grades will not be curved, but your lowest assignment grade will be dropped befo
 The midterm quiz will be in-class and include material covered in lectures, assigned readings, and assignments. The quiz will be a combination of multiple choice questions and short write-in answers.  
 
 ## Final Assignment 
-The final project will be a Python script created by you and should be functioning properly by the last day of class. The project will be based on your individual interests and goals and you can choose yourself what Phython packages/modules you want to use. Your project should *reproducible*. That means that all the steps in your project, including data cleaning, analysis, and vizualization should be done in Python. Good code documentation and adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final project. 
+The final project will be a Python script created by you and should be functioning properly by the last day of class. The project will be based on your individual interests and goals and you can choose yourself what Python packages/modules you want to use. Your project should be *reproducible*. That means that all the steps in your project, including data cleaning, analysis, and vizualization should be done in Python. Good code documentation and adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final project. 
 
 ## Weekly Schedule 
 
