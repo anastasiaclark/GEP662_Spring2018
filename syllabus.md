@@ -75,22 +75,22 @@ The final project will be a Python script created by you and should be functioni
 
 Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 ---------|-------|-------|---------|-----------|
-1|Jan 30 |Course overview, software installations, IDEs: Spyder & Jupyter Notebook, My first Python Script|Python for Everybody: Ch 1||
-2|Feb 6  |Variables and Types, Flow Control and For Loops| Python for Everybody: Ch 2,3 & 5 |Assignment 1: My Intro Script|
-3|Feb 13 |Lists, Tuples & Dictionaries|Automate the Boring Stuff with Python: Ch 4 & 5|Assignment 2|
-4|Feb 20 |Functions, Lambda operator & list comprehension|Automate the Boring Stuff with Python:Ch 3, [LearnPython.org List Comprehension](https://www.learnpython.org/en/List_Comprehensions), [Lamda](https://www.python-course.eu/python3_lambda.php)|Assignment 3|
+1|Jan 30 | Course overview, software installations, IDEs: Spyder & Jupyter Notebook, My first Python Script|Python for Everybody: Ch 1||
+2|Feb 6  | Variables and Types, Flow Control and For Loops| Python for Everybody: Ch 2,3 & 5 |Assignment 1: My Intro Script|
+3|Feb 13 | Lists, Tuples & Dictionaries|Automate the Boring Stuff with Python: Ch 4 & 5|Assignment 2|
+4|Feb 20 | Functions, Lambda operator & list comprehension|Automate the Boring Stuff with Python:Ch 3, [LearnPython.org List Comprehension](https://www.learnpython.org/en/List_Comprehensions), [Lamda](https://www.python-course.eu/python3_lambda.php)|Assignment 3|
  |Feb 27 |Classes follow a Monday schedule|| |
-5|Mar 6  |Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 4|
-6|Mar 13 |Data wrangling w. Pandas|[watch](https://vimeo.com/59324550), read: Python for Data Analysis: Ch 7 (handout)|Assignment 5|
-7|Mar 20 | Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 6|
-8|Mar 27 | Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 7 |
-9|Apr 10 |More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 8|
-10|Apr 17|Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc) and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)| Assignment 9|
-11|Apr 24|Making (Web) Maps in Python: Matplotlib, folium|[Folium documentation](https://folium.readthedocs.io/en/latest/)|Assignment 10|
-12|May 1 |Interactive Maps with Bokeh|[Bokeh documentation](https://bokeh.pydata.org/en/latest/)|Final project idea description|
-13|May 8 |Workinng with raster data in Python: rasterio and rasterstats|[rasterio documentation](https://mapbox.github.io/rasterio/quickstart.html), [rasterstats documentation](http://pythonhosted.org/rasterstats/)|Final project pseudo-code|
-14|May 15|Introduction to version control with Github|[git - the simple guide](http://rogerdudler.github.io/git-guide/)|Work on your final project|
-15|May 22|Final project presentations|No readings|Final Project|
+5|Mar 6  |Intro to Pandas, Data wrangling w. Pandas |[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [watch](https://vimeo.com/59324550) | Assignment 4|
+6|Mar 13 | Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
+7|Mar 20 | Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 6 |
+8|Mar 27| More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 7|
+9|Apr 10 | Geocoding in Python| reading in geocoding| Assignment 8|
+10|Apr 17| Making (Web) Maps in Python: Matplotlib, folium|[Folium documentation](https://folium.readthedocs.io/en/latest/)|Assignment 10|
+11|Apr 24| Routing and Network Vizualizations|[osmnx documentation](https://osmnx.readthedocs.io/en/stable/) |Assignment 11|
+12|May 1 | Interactive Maps with Bokeh|[Bokeh documentation](https://bokeh.pydata.org/en/latest/)|Final project idea description|
+13|May 8 | Workinng with raster data in Python: rasterio and rasterstats|[rasterio documentation](https://mapbox.github.io/rasterio/quickstart.html), [rasterstats documentation](http://pythonhosted.org/rasterstats/)|Final project pseudo-code|
+14|May 15| Introduction to version control with Github|[git - the simple guide](http://rogerdudler.github.io/git-guide/)|Work on your final project|
+15|May 22| Final project presentations|No readings|Final Project|
 
 ## Course Policies 
 
