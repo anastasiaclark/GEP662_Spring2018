@@ -1,6 +1,6 @@
 
 # Course Syllabus* : Introduction to Programming for GISs, Spring 2018
-*last Updated: today's date
+*last Updated: 01/06/2018 
 
 **Instructor:** Anastasia Clark  
 **E-mail:** anastasiapotupalova@gmail.com  
@@ -25,7 +25,7 @@ https://books.trinket.io/pfe/index.html
 * McKinney, W. (2012) Python for Data Analysis: Data wrangling with Pandas, NumPy and iPython, First edition. O´Reilly Media. http://shop.oreilly.com/product/0636920023784.do
 
 ## Software
-For this cource, we will primarily use the [Anaconda's distribution of Python 3](https://www.anaconda.com/download/). We will utillize two Python Development Environments, [Spyder](http://pythonhosted.org/spyder/) and [Jupyter Notebook](http://jupyter.org/). For some on-line tutorials and our very first class, we will use the standard Python 2.7 installation from ArcGIS. All the software is installed on the lab's computers. To install Anaconda and the required packages on your personal machine, [follow this instructions](installations.md#install-anacondas-distribution-of-python-on-your-machine).
+For this cource, we will primarily use the [Anaconda's distribution of Python 3](https://www.anaconda.com/download/). We will utillize two Python Development Environments, [Spyder](http://pythonhosted.org/spyder/) and [Jupyter Notebook](http://jupyter.org/). For some on-line tutorials and our very first class, we will use the standard Python 2.7 installation from ArcGIS. All the software is installed on the lab's computers. To install Anaconda and the required packages on your personal machine, [follow this instructions](https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/installations.md).
 
 ## Learning Objectives
 After successfully completing this course, you are expected to be able to:
@@ -86,22 +86,22 @@ Your analysis should reproducible and well-documneted. Adhereing to the best pro
 
 Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 ---------|-------|-------|---------|-----------|
-1         |Jan 30 |Python Basics: Variables & Types; Interpreters: Spyder & Jupyter Notebook|Python for Everybody: Ch 1||
-2|Feb 6|Python Data Structures & Control Flow|Automate the Boring Stuff with Python: Ch 2,3 & 4|Assignment 1: My Intro Script|
-3|Feb 13|Python Basics: Dictionaries & More Custom Functions |Automate the Boring Stuff with Python: Ch 5,  Python for Everybody: Ch4|Assignment 2|
- No Class|Feb 20|Classes follow a Monday schedule| | |
-4|Feb 27|Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 3|
-5|Mar 6|Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 4|
-6|Mar 13| Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
-7|Mar 20| Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 6 |
-8|Mar 27|More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 7|
-9|Apr 10| Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc) and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)| Assignment 8|
-10|Apr 17|Making Maps in Python: Matplotlib, folium||Assignment 9|
-11|Apr 24|Interactive Maps with Bokeh||Final Assignment Idea Description|
-12|May 1|Workinng with raster data in Python: GDAL, NymPy, rasterio||Final Assigment pseudo-code|
-13|May 8|* Spatial weights with PySAL||Work on your final assignment|
-14|May 15|* ESDA with PySAL||Work on your final assignment|
-15|May 22|Introduction to version control: Git and Github||Final Assignment|
+1|Jan 30 |Course overview, software installations, interpreters: Spyder & Jupyter Notebook, My first Python Script|Python for Everybody: Ch 1||
+2|Feb 6  |Variables and Types, Flow Control and For Loops| Python for Everybody: Ch 2,3 &5 |Assignment 1: My Intro Script|
+3|Feb 13 |Lists, Tuples & Dictionaries|Automate the Boring Stuff with Python: Ch 4 & 5|Assignment 2|
+4|Feb 20 |Functions, Lambda operator & list comprehension|Automate the Boring Stuff with Python:Ch 3, [LearnPython.org List Comprehension](https://www.learnpython.org/en/List_Comprehensions), [Lamda](https://www.python-course.eu/python3_lambda.php)|Assignment 3|
+ |Feb 27 |Classes follow a Monday schedule|| |
+5|Mar 6  |Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 4|
+6|Mar 13 |Data wrangling w. Pandas| https://vimeo.com/59324550, Python for Data Analysis: Ch 7 (handout)|Assignment 5|
+7|Mar 20 | Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 6|
+8|Mar 27 | Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 7 |
+9|Apr 10 |More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 8|
+10|Apr 17|Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc) and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)| Assignment 9|
+11|Apr 24|Making (Web) Maps in Python: Matplotlib, folium||Assignment 10|
+12|May 1 |Interactive Maps with Bokeh||Final Assignment Idea Description|
+13|May 8 |Workinng with raster data in Python: rasterio and rasterstats||Final Assigment pseudo-code|
+14|May 15|Introduction to version control: Git and Github|reading on git|Work on your final assignment|
+15|May 22|Final assignment presentations|No readings|Final Assignment|[git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 
 ## Course Policies 
