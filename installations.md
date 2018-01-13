@@ -49,7 +49,8 @@ I you are on Windows, you window will look slightly different. Choose **Just Me*
 
 Anaconda's distribution of Python comes with lots of usefull packages, but we will need to install a few more to enable our work with spatial data. Anaconda also comes with its own package manager, [conda](https://conda.io/docs/user-guide/concepts.html#conda-packages), which makes packages handling very easy. On Mac OS/linux, you can run conda commands from your regular terminal <img src='img/terminal.png' height="40">.  
 
-On Windows, you will find *Anaconda Prompt* under *Start Menu*-->*Anaconda* <img src='img/anaconda_prompt.png' height="200"> or you can use your regular command prompt.
+On Windows, you will find *Anaconda Prompt* under *Start Menu*-->*Anaconda* or you can use your regular command prompt.
+<img src='img/anaconda_prompt.png' height="300">
 Whichever you use, type `conda config --add channels conda-forge` to make sure that conda-forge is added to your channels. Now, to install the required packages, type below commands one by one. When asked 'Proceed ([y]/n)?' type `y` and hit Enter. Most of the packages have a number of dependecnies that will be installed along the way. Just say `y` to them all.
 
 * `conda install geopandas`
