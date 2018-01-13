@@ -1,6 +1,6 @@
 
 # Course Syllabus* : GEP662: Introduction to Programming for GISs, Spring 2018
-*last Updated: 01/06/2018 
+*last Updated: 
 
 **Instructor:** Anastasia Clark  
 **E-mail:** anastasiapotupalova@gmail.com  
@@ -81,14 +81,14 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 4|Feb 20 |Functions, Lambda operator & list comprehension|Automate the Boring Stuff with Python:Ch 3, [LearnPython.org List Comprehension](https://www.learnpython.org/en/List_Comprehensions), [Lamda](https://www.python-course.eu/python3_lambda.php)|Assignment 3|
  |Feb 27 |Classes follow a Monday schedule|| |
 5|Mar 6  |Intro to Pandas|[Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) | Assignment 4|
-6|Mar 13 |Data wrangling w. Pandas|  [watch:] (https://vimeo.com/59324550), read: Python for Data Analysis: Ch 7 (handout)|Assignment 5|
+6|Mar 13 |Data wrangling w. Pandas|[watch](https://vimeo.com/59324550), read: Python for Data Analysis: Ch 7 (handout)|Assignment 5|
 7|Mar 20 | Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 6|
 8|Mar 27 | Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 7 |
 9|Apr 10 |More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 8|
 10|Apr 17|Geocoding in Python|[Geoclient API documentation](https://api.cityofnewyork.us/geoclient/v1/doc) and [create NYC developer account](https://developer.cityofnewyork.us/user/register?destination=user/login)| Assignment 9|
 11|Apr 24|Making (Web) Maps in Python: Matplotlib, folium|[Folium documentation](https://folium.readthedocs.io/en/latest/)|Assignment 10|
 12|May 1 |Interactive Maps with Bokeh|[Bokeh documentation](https://bokeh.pydata.org/en/latest/)|Final project idea description|
-13|May 8 |Workinng with raster data in Python: rasterio and rasterstats||Final project pseudo-code|
+13|May 8 |Workinng with raster data in Python: rasterio and rasterstats|[rasterio documentation](https://mapbox.github.io/rasterio/quickstart.html), [rasterstats documentation](http://pythonhosted.org/rasterstats/)|Final project pseudo-code|
 14|May 15|Introduction to version control: Git and Github|[git - the simple guide](http://rogerdudler.github.io/git-guide/)
 |Work on your final assignment|
 15|May 22|Final project presentations|No readings|Final Project|
@@ -99,11 +99,7 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 Classes will start on time, and lateness or absence will count against your class participation grade unless there is an emergency or it is cleared with the professor in a timely fashion before class. If you miss a session, it is your responsibility to check with your classmates for notes and other course materials.  
 
 * **Cellphone and Computers use** 
-Please use the computers only for class-related work. Don't browse social media or shopping webistes. We have a lot of material to cover and will be moving at fast pace. If you get distracted and miss the infomration, we won't have time to go back and explain it to you again. Please understand that the use of cellphones and other similar devices is not permitted during midterm and quizes.
-
-Since the lectures take place in a computer lab, the following additional rules apply:
- * Absolutely NO drinking or eating of any kind in the lab
- * No printing of any materials without permission from the instructor or the lab manager  
+Please use the computers only for class-related work. Don't browse social media or shopping websites. We have a lot of material to cover and will be moving at fast pace. If you get distracted and miss the information, we won't have time to go back and explain it to you again. Please understand that the use of cellphones and other similar devices is not permitted during midterm and quizes.
 
 * **Incompletes** 
 A grade of incomplete will only be considered if you are clearly making a good faith effort to complete the course (i.e., attending regularly, participating in discussions) and have a good reason for not completing the work.  
