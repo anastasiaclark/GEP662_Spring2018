@@ -5,7 +5,7 @@
 **Instructor:** Anastasia Clark  
 **E-mail:** anastasiapotupalova@gmail.com  
 **GitHub:** https://github.com/anastasiaclark   
-**Course meetings:** Gillet Hall, Rm. 322 (GISc Lab) on Tuesdays 6:00 pm to 9:30 pm .  
+**Course meetings:** Gillet Hall, Rm. 322 (GISc Lab) on Tuesdays 6:00 pm to 9:30 pm.     
 **Course Slack Channel:** https://gep662.slack.com
 
 ## Readings
