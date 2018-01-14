@@ -5,8 +5,8 @@
 **Instructor:** Anastasia Clark  
 **E-mail:** anastasiapotupalova@gmail.com  
 **GitHub:** https://github.com/anastasiaclark   
-**Course meetings:** Gillet Hall, Rm. 322 (GISc Lab) on Tuesdays 6:00 pm to 9:30 pm.     
-**Course Slack Channel:** https://gep662.slack.com
+**Course meetings:** Gillet Hall, Rm. 322 (GISc Lab) on Tuesdays 6:00 pm to 9:30 pm.  <b>     
+**Course Slack Channel:** https://gep662.slack.com 
 
 ## Readings
 There isn't a comprehensive text book for this course. We will use a combination of freely avalable books, blogs, videos and Python packages documentation as our study materials. Chapters will be asigned from below books; other readings will be linked   in the readings section of the [weekly schedule breakdown](#weekly-schedule)
