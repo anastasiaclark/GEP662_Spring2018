@@ -31,7 +31,8 @@ For this cource, we will use the [Anaconda's distribution of Python 3](https://w
 After successfully completing this course, you are expected to be able to:
 
 * Understand fundamental programming concepts  
-* Understand basics of working with data in Python    
+* Understand basics of working with data in Python
+* Understand the concept of reproducible analysis in Python
 * Use Python to import, create, manipulate and analyze spatial data in different formats
 * Use Python to extract valuable insight from spatial and tabular data  
 * Visualize data and create (interactive) maps using Python  
