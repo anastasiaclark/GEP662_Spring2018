@@ -41,7 +41,7 @@ After successfully completing this course, you are expected to be able to:
 
 
 ## Course Format
-This course meets once a week in the GIS lab for approximately 3.5 hours. The course will typically begin with class lecture and discussion, followed by hands-on exercises. For shorter topics we will pivot back and forth between class lecture / discussion and exercises. Homework will be assigned after most sessions to reinforce what we have covered in class, and to give you the opportunity to work with the concepts and applications so you can truly learn them. Assignments will constitute the largest portion of your grade.    
+This course meets once a week in the GIS lab for approximately 3.5 hours. The course will typically begin with a short class lecture and discussion, followed by hands-on coding exercises. Homework will be assigned after most sessions to reinforce what we have covered in class, and to give you the opportunity to work with the concepts and applications so you can truly learn them. Assignments will constitute the largest portion of your grade.    
 
 All homework assignments are due at the beginning of class. Assignments not turned in at that time will be penalized 25% from the original total grade for each day the assignment is not handed in: 
 * Handed in at the beginning of class, max possible grade is 100%
@@ -50,10 +50,10 @@ All homework assignments are due at the beginning of class. Assignments not turn
 * Three days late, max possible grade is 25%
 * Four days late: 0%, and participation grade is impacted
 
-Questions about the assignments should be asked well before the deadline for assignment date. Before reaching out to the instructor for code-related help, make sure that you did your best effort and researched the question first on your own. Independent research and debugging is very important skill and it is one of our learning objectives for this class. 
+Questions about the assignments should be asked well before the deadline for assignment date. Before reaching out to your fellow students or the instructor for code-related help, make sure that you did your best effort and researched the question first on your own. Independent research and debugging is very important skill and it is one of our learning objectives for this class. 
 
 ## Assessment and Grading 
-Grades will not be curved, but your lowest assignment grade will be dropped before calculating your final grade. Class participation includes engagement in discussions and answering the questions during lectures and demonstrations. Lateness and absence will count against participation grade.
+Grades will not be curved, but your lowest assignment grade will be dropped before calculating your final grade. Class participation includes engagement in discussions and answering the questions during lectures and demonstrations. Class participation on slack is also counted towards your participation grade. Lateness and absence will count against participation grade.
 
 **Grade Weighting**  
 *  60% Homework Assignments 
