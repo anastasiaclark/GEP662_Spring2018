@@ -78,7 +78,7 @@ The final project will be a Python script created by you and should be functioni
 Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 ---------|-------|-------|---------|-----------|
 1|Jan 30 | Course overview, software installations, IDEs: Spyder & Jupyter Notebook, My first Python Script|Python for Everybody: Ch 1||
-2|Feb 6  | Variables and Types, Flow Control and For Loops| Python for Everybody: Ch 2,3 & 5 |Assignment 1: My Intro Script|
+2|Feb 6  | Variables and Types, Flow Control and Iterations| Python for Everybody: Ch 2,3 & 5 |Assignment 1: My Intro Script|
 3|Feb 13 | Lists, Tuples & Dictionaries|Automate the Boring Stuff with Python: Ch 4 & 5|Assignment 2|
 4|Feb 20 | Functions, Lambda operator & list comprehension|Automate the Boring Stuff with Python:Ch 3, [LearnPython.org List Comprehension](https://www.learnpython.org/en/List_Comprehensions), [Lamda](https://www.python-course.eu/python3_lambda.php)|Assignment 3|
  |Feb 27 |Classes follow a Monday schedule|| |
