@@ -41,7 +41,7 @@ After successfully completing this course, you are expected to be able to:
 
 
 ## Course Format
-This course meets once a week in the GIS lab for approximately 3.5 hours. The course will typically begin with a short class lecture and discussion, followed by hands-on coding exercises. Homework will be assigned after most sessions to reinforce what we have covered in class, and to give you the opportunity to work with the concepts and applications so you can truly learn them. Assignments will constitute the largest portion of your grade.    
+This course meets once a week in the GIS lab for approximately 3.5 hours. Classes will follow a format where the basic class material is introduced during a brief presentation and the class material is continued to be explained and learned during the hands-on demonstrations and class exercises. Homework will be assigned after most sessions to reinforce what we have covered in class, and to give you the opportunity to work with the concepts and applications so you can truly learn them. Assignments will constitute the largest portion of your grade.    
 
 All homework assignments are due at the beginning of class. Assignments not turned in at that time will be penalized 25% from the original total grade for each day the assignment is not handed in: 
 * Handed in at the beginning of class, max possible grade is 100%
