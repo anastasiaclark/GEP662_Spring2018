@@ -50,10 +50,10 @@ All homework assignments are due at the beginning of class. Assignments not turn
 * Three days late, max possible grade is 25%
 * Four days late: 0%, and participation grade is impacted
 
-Questions about the assignments should be asked well before the deadline for assignment date. Before reaching out to your fellow students or the instructor for code-related help, make sure that you did your best effort and researched the question first on your own. Independent research and debugging is very important skill and it is one of our learning objectives for this class. 
+Questions about the assignments should be asked well before the deadline for assignment. Before reaching out to your fellow students or the instructor for code-related help, make sure that you did your best effort and researched the question first on your own. Independent research and debugging is very important skill and it is one of our learning objectives for this class. 
 
 ## Assessment and Grading 
-Grades will not be curved, but your lowest assignment grade will be dropped before calculating your final grade. Class participation includes engagement in discussions and answering the questions during lectures and demonstrations. Class participation on slack is also counted towards your participation grade. Lateness and absence will count against participation grade.
+Grades will not be curved, but your lowest assignment grade will be dropped before calculating your final grade. Class participation includes engagement in discussions and answering the questions during lectures and demonstrations. Class participation on Slack is also counted towards your participation grade. Lateness and absences will count against your participation grade.
 
 **Grade Weighting**  
 *  60% Homework Assignments 
