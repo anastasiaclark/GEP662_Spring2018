@@ -100,7 +100,7 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 Classes will start on time, and lateness or absence will count against your class participation grade unless there is an emergency or it is cleared with the professor in a timely fashion before class. If you miss a session, it is your responsibility to check with your classmates for notes and other course materials.  
 
 * **Cellphone and Computers use** 
-Please use the computers only for class-related work. Don't browse social media or shopping websites. We have a lot of material to cover and will be moving at fast pace. If you get distracted and miss the information, we won't have time to go back and explain it to you again. Please understand that the use of cellphones and other similar devices is not permitted during midterm and quizes.
+Please use the computers only for class-related work. Don't browse social media or shopping websites. We have a lot of material to cover and will be moving at fast pace. If you get distracted and miss the information, we won't have time to go back and explain it to you again. Please understand that the use of cellphones and other similar devices is not permitted during midterm.
 
 * **Incompletes** 
 A grade of incomplete will only be considered if you are clearly making a good faith effort to complete the course (i.e., attending regularly, participating in discussions) and have a good reason for not completing the work.  
@@ -108,11 +108,5 @@ A grade of incomplete will only be considered if you are clearly making a good f
 * **Dropping** 
 The last day to drop the course with the grade of “W” is April 16 (no refund).  
 
-* **Academic dishonesty** 
-Academic dishonesty will not be tolerated.  Academic dishonesty includes, but is not limited to, cheating, plagiarizing (including “cutting and pasting” or paraphrasing information from the internet without proper citation), fabricating information or citations, facilitating acts of academic dishonesty by others, submitting work of another person or papers written for other courses, or tampering with the academic work of other students.  Students may be asked to submit their notes and references to prove that their work is their own. For further clarification, please read CUNY's policy on academic integrity at http://www.lehman.edu/provost/documents/academic-integrity.pdf. Violators will be reported to the head of the Department and to the Dean of Student Affairs.   
- 
-* **Accommodation for Students with Disabilities** 
-Lehman College is committed to providing access to all programs and curricula to all students.  Students with disabilities who may need classroom accommodations are encouraged to register with the Office of Student Disability Services.  For more information, please contact the Office of Student Disability Services, Shuster Hall, Room 238, tel #: 718-960-8441.  
-
-**The Academic Center for Excellence (ACE) and the Science Learning Center (SLC)**
-Lehman College has two tutoring centers on campus.  The ACE provides appointment-based and drop-in tutoring in the humanities, social sciences and writing, as well as general writing skills.  The SLC provides drop-in tutoring for natural and computer science courses.  To obtain more information about the ACE and SLC, please visit their website at http://www.lehman.edu/issp, or please call the ACE at 718-960-8175, and the SLC at 718-960-7707.  
+* **Academic dishonesty (as it applies to this course)** 
+While looking for answers to your coding questions, you will find plenty of Python code on the web. It is ok to use snippets of the code you find in your work and as a matter of fact, one of the core Python pricinples is code reusability. However, you are strongly discouraged from copying and pasting functions in your work without understanding what they actually do. Instead, use others' code examples to learn and adapt the solutions to your own problems.
