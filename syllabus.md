@@ -82,7 +82,7 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 3|Feb 13 | Lists, Tuples & Dictionaries; reading binary files|Automate the Boring Stuff with Python: Ch 4 & 5, Ch 8 up to the section *Saving Variables with the shelve Module*, Ch 14|Assignment 2|
 4|Feb 20 | Functions, Lambda operator & list comprehension|1. Automate the Boring Stuff with Python: Ch 3, [2. LearnPython.org List Comprehension](https://www.learnpython.org/en/List_Comprehensions), [3. Lamda](https://www.python-course.eu/python3_lambda.php)|Assignment 3|
  |Feb 27 |Classes follow a Monday schedule|| |
-5|Mar 6  |Intro to Pandas, Data wrangling w. Pandas |[1.Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [2. watch this](https://vimeo.com/59324550) | Assignment 4|
+5|Mar 6  |Intro to Pandas, Data wrangling w. Pandas |[1.Read Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [2. watch 10 minute tour of pandas](https://vimeo.com/59324550) | Assignment 4|
 6|Mar 13 | Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
 7|Mar 20 | Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 6 |
 8|Mar 27| More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 7|
