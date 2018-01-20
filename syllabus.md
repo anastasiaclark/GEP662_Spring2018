@@ -64,8 +64,8 @@ Grades will not be curved, but your lowest assignment grade will be dropped befo
 *  C+ 77-79, C 73-76, C- 70-72  
 *  F < 70  
 
-## Midterm Quiz 
-The midterm quiz will be in-class and include material covered in lectures, assigned readings, and assignments. The quiz will be a combination of multiple choice questions and short write-in answers.  
+## Midterm 
+The midterm will be in-class and include material covered in lectures, readings, and assignments. It will be a combination of small coding challenges and short type-in answers.   
 
 ## Final Assignment 
 The final project will be a Python script created by you and should be functioning properly by the last day of class. The project will be based on your individual interests and goals and you can choose yourself what Python packages/modules you want to use. Your project should be *reproducible*. That means that all the steps in your project, including data cleaning, analysis, and vizualizations should be done in Python and I should be able to reproduce it by running your script(s). Good code documentation and adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final project. 
