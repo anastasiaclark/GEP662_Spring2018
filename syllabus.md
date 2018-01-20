@@ -17,9 +17,6 @@ There isn't a comprehensive text book for this course. We will use a combination
 * Python for Everybody
 https://books.trinket.io/pfe/index.html
     
-* LearnPython.org interactive Python tutorials
-    https://www.learnpython.org/
-    
 
 **Recommended books on Python programming & GIS:** 
 * Lawhead, J. (2015) Learning Geospatial Analysis with Python: An effective guide to geographic information systems and remote sensing analysis using Python 3, Second edition. Packt Publishing. https://www.packtpub.com/application-development/learning-geospatial-analysis-python-second-edition  
@@ -71,7 +68,7 @@ Grades will not be curved, but your lowest assignment grade will be dropped befo
 The midterm quiz will be in-class and include material covered in lectures, assigned readings, and assignments. The quiz will be a combination of multiple choice questions and short write-in answers.  
 
 ## Final Assignment 
-The final project will be a Python script created by you and should be functioning properly by the last day of class. The project will be based on your individual interests and goals and you can choose yourself what Python packages/modules you want to use. Your project should be *reproducible*. That means that all the steps in your project, including data cleaning, analysis, and vizualizations should be done in Python and I should be able to reproduce it by running a single script/command. Good code documentation and adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final project. 
+The final project will be a Python script created by you and should be functioning properly by the last day of class. The project will be based on your individual interests and goals and you can choose yourself what Python packages/modules you want to use. Your project should be *reproducible*. That means that all the steps in your project, including data cleaning, analysis, and vizualizations should be done in Python and I should be able to reproduce it by running your script(s). Good code documentation and adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final project. 
 
 ## Weekly Schedule 
 
