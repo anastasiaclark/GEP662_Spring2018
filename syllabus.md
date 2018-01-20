@@ -71,7 +71,7 @@ Grades will not be curved, but your lowest assignment grade will be dropped befo
 The midterm quiz will be in-class and include material covered in lectures, assigned readings, and assignments. The quiz will be a combination of multiple choice questions and short write-in answers.  
 
 ## Final Assignment 
-The final project will be a Python script created by you and should be functioning properly by the last day of class. The project will be based on your individual interests and goals and you can choose yourself what Python packages/modules you want to use. Your project should be *reproducible*. That means that all the steps in your project, including data cleaning, analysis, and vizualization should be done in Python. Good code documentation and adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final project. 
+The final project will be a Python script created by you and should be functioning properly by the last day of class. The project will be based on your individual interests and goals and you can choose yourself what Python packages/modules you want to use. Your project should be *reproducible*. That means that all the steps in your project, including data cleaning, analysis, and vizualizations should be done in Python and I should be able to reproduce it by running a single script/command. Good code documentation and adhereing to the best programming practices will be highly regarded and will affect positively in the grading of your final project. 
 
 ## Weekly Schedule 
 
@@ -97,10 +97,10 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 ## Course Policies 
 
 * **Lateness and absences** 
-Classes will start on time, and lateness or absence will count against your class participation grade unless there is an emergency or it is cleared with the professor in a timely fashion before class. If you miss a session, it is your responsibility to check with your classmates for notes and other course materials.  
+Classes will start on time, and lateness or absence will count against your class participation grade unless there is an emergency or it is cleared with the professor in a timely fashion before class. If you miss a session, it is your responsibility to learn the missed material.
 
 * **Cellphone and Computers use** 
-Please use the computers only for class-related work. Don't browse social media or shopping websites. We have a lot of material to cover and will be moving at fast pace. If you get distracted and miss the information, we won't have time to go back and explain it to you again. Please understand that the use of cellphones and other similar devices is not permitted during midterm.
+Please use the computers only for class-related work. Don't browse social media, answer personal emails or visit shopping websites. We have a lot of material to cover and will be moving at fast pace. If you get distracted and miss the information, we won't have time to go back and explain it to you again. Please understand that the use of cellphones and other similar devices is not permitted during midterm.
 
 * **Incompletes** 
 A grade of incomplete will only be considered if you are clearly making a good faith effort to complete the course (i.e., attending regularly, participating in discussions) and have a good reason for not completing the work.  
