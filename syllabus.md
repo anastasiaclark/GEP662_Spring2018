@@ -83,11 +83,11 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 6|Mar 13 | Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
 7|Mar 20 | Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 6 |
 8|Mar 27| More Overlay Operations with Geopandas and reading data from databases|reading|Assignment 7|
-9|Apr 10 | Geocoding in Python| 1.[Geopy documentation](http://geopy.readthedocs.io/en/1.11.0/), 2. [get Google API](https://developers.google.com/maps/documentation/geocoding/get-api-key), 3. read [usage quota](https://developers.google.com/maps/documentation/geocoding/usage-limits)| Assignment 8|
+9|Apr 10 | Geocoding in Python| [1.Geopy documentation](http://geopy.readthedocs.io/en/1.11.0/), [2.get Google API](https://developers.google.com/maps/documentation/geocoding/get-api-key),  [3. read usage quota](https://developers.google.com/maps/documentation/geocoding/usage-limits)| Assignment 8|
 10|Apr 17| Making (Web) Maps in Python: Matplotlib, folium|[Folium documentation](https://folium.readthedocs.io/en/latest/)|Assignment 10|
 11|Apr 24| Routing and Network Vizualizations|[osmnx documentation](https://osmnx.readthedocs.io/en/stable/) |Assignment 11|
 12|May 1 | Interactive Maps with Bokeh|[Bokeh documentation](https://bokeh.pydata.org/en/latest/)|Final project idea description|
-13|May 8 | Workinng with raster data in Python: rasterio and rasterstats|[1.rasterio documentation](https://mapbox.github.io/rasterio/quickstart.html), [2. rasterstats documentation](http://pythonhosted.org/rasterstats/)|Final project pseudo-code|
+13|May 8 | Working with raster data in Python: rasterio and rasterstats|[1.rasterio documentation](https://mapbox.github.io/rasterio/quickstart.html), [2. rasterstats documentation](http://pythonhosted.org/rasterstats/)|Final project pseudo-code|
 14|May 15| Introduction to version control with Github|[git - the simple guide](http://rogerdudler.github.io/git-guide/)|Work on your final project|
 15|May 22| Final project presentations|No readings|Final Project|
 
