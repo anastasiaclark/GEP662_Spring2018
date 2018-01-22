@@ -88,7 +88,7 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
 11|Apr 24| Routing and Network Vizualizations|[osmnx documentation](https://osmnx.readthedocs.io/en/stable/) |Assignment 11|
 12|May 1 | Interactive Maps with Bokeh|[Bokeh documentation](https://bokeh.pydata.org/en/latest/)|Final project idea description|
 13|May 8 | Working with raster data in Python: rasterio and rasterstats|[1.rasterio documentation](https://mapbox.github.io/rasterio/quickstart.html), [2. rasterstats documentation](http://pythonhosted.org/rasterstats/)|Final project pseudo-code|
-14|May 15| Introduction to version control with Github|[git - the simple guide](http://rogerdudler.github.io/git-guide/)|Work on your final project|
+14|May 15| Introduction to version control with Github|[1.create Github account](https://github.com/) [2. git - the simple guide](http://rogerdudler.github.io/git-guide/)|Work on your final project|
 15|May 22| Final project presentations|No readings|Final Project|
 
 ## Course Policies 
