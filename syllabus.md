@@ -107,4 +107,4 @@ A grade of incomplete will only be considered if you are clearly making a good f
 The last day to drop the course with the grade of “W” is April 16 (no refund).  
 
 * **Academic dishonesty (as it applies to this course)** 
-While looking for answers to your coding questions, you will find plenty of Python code on the web. It is ok to use snippets of the code you find in your work and as a matter of fact, one of the core Python pricinples is code reusability. However, you are strongly discouraged from copying and pasting functions in your work without understanding what they actually do. Instead, use others' code examples to learn and adapt the solutions to your own problems.
+While looking for answers to your coding questions, you will find plenty of Python code on the web. It is ok to use snippets of the code you find in your work and as a matter of fact, one of the core Python principles is code reusability. However, you are strongly discouraged from copying and pasting functions or blocks of code in your work without understanding what they actually do. Instead, use others' code examples to learn and adapt the solutions to your own problems.
