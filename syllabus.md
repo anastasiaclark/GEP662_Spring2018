@@ -1,7 +1,7 @@
 
 # Course Syllabus* : GEP662: Introduction to Programming for GISs, Spring 2018
-* last Updated: Jan 23, 2018
-* subject to change
+*last Updated: Jan 23, 2018
+**subject to change based on the needs of the class
 
 **Instructor:** Anastasia Clark  
 **E-mail:** anastasiapotupalova@gmail.com  
