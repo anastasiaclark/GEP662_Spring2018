@@ -81,9 +81,9 @@ Class #   |Day    |Topics |Do/Read before class |Due Assignment|
  |Feb 20 |Classes follow a Monday schedule|| |
 4|Feb 27 | Functions, Lambda operator & list comprehension; Pythonic Code|1. Automate the Boring Stuff with Python: Ch 3, [2. LearnPython.org List Comprehension](https://www.learnpython.org/en/List_Comprehensions), [3. Lamda](https://www.python-course.eu/python3_lambda.php)|Assignment 3|
 5|Mar 6  |Intro to Pandas, Data wrangling w. Pandas |[1.Read Greg Reda post: Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [2. watch 10 minute tour of pandas](https://vimeo.com/59324550) | Assignment 4|
-6|Mar 13 | Midterm Review; Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
-7|Mar 20 | Midterm; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 6 |
-8|Mar 27| More Overlay Operations with Geopandas and reading data from databases|1. review previous reading [2. watch JuputerCon 2017 keynote](https://www.oreilly.com/ideas/design-for-reproducibility)|Assignment 7|
+6|Mar 13 | Spatial Data Model & Shapely|[Shapely User Manual](http://shapely.readthedocs.io/en/stable/manual.html)|Assignment 5|
+7|Mar 20 | Midterm Review; Working with vector data in Python: Introduction to Geopandas|[Geopandas documentation](http://geopandas.org/)|Assignment 6 |
+8|Mar 27| Midterm Quiz; More Overlay Operations with Geopandas and reading data from databases|1. review previous reading [2. watch JuputerCon 2017 keynote](https://www.oreilly.com/ideas/design-for-reproducibility)|Assignment 7|
 9|Apr 10 | Geocoding in Python| [1.Geopy documentation](http://geopy.readthedocs.io/en/1.11.0/), [2.get Google API](https://developers.google.com/maps/documentation/geocoding/get-api-key),  [3. read usage quota](https://developers.google.com/maps/documentation/geocoding/usage-limits)| Assignment 8|
 10|Apr 17| Making (Web) Maps in Python: Matplotlib, folium|[Folium documentation](https://folium.readthedocs.io/en/latest/)|Assignment 10|
 11|Apr 24| Routing and Network Vizualizations|[osmnx documentation](https://osmnx.readthedocs.io/en/stable/) |Assignment 11|
