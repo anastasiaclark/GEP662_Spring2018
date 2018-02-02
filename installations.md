@@ -14,7 +14,6 @@
 * folium
 * osmnx
 * networkx
-* pandana 
 * geoplot
 
 To install the required packages, run anaconda prompt **as administrator**.
