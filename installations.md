@@ -33,8 +33,6 @@ Type following one by one and when asked 'Proceed ([y]/n)?' type `y` and hit Ent
 * `conda install folium`
 * `conda install osmnx`
 * `conda install networkx`
-* `conda install pandana`
-* `conda install geoplot`
 * `conda install rasterstats`
 
 
@@ -62,8 +60,6 @@ Whichever you use, type `conda config --add channels conda-forge` to make sure t
 * `conda install folium`
 * `conda install osmnx`
 * `conda install networkx`
-* `conda install pandana`
-* `conda install geoplot`
 * `conda install rasterstats`
 
 As an alternative, you can create a new environment from the provided [environemnt.yml]('https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/environment.yml') file and it will be created with all the required packages for this course. Just download the file and run the command `conda env create -f environment.yml`. Then before you start working with Spyder or Jupyter notebook, run `source activate gep662` (on Mac) or `activate gep662` (on Widnows). 
