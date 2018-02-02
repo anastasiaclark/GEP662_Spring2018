@@ -62,4 +62,8 @@ Whichever you use, type `conda config --add channels conda-forge` to make sure t
 * `conda install networkx`
 * `conda install rasterstats`
 
-As an alternative, you can create a new environment from the provided [environemnt.yml]('https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/environment.yml') file and it will be created with all the required packages for this course. Just download the file and run the command `conda env create -f environment.yml`. Then before you start working with Spyder or Jupyter notebook, run `source activate gep662` (on Mac) or `activate gep662` (on Widnows). 
+As an alternative, you can create a new environment from the provided [environemnt.yml]('https://github.com/anastasiaclark/GEP662_Spring2018/blob/master/environment.yml') file and it will be created with all the required packages for this course. Just download the file and run the command `conda env create -f environment.yml`. Note, you would need to include the path to the folder where environment.yml file is located. Like:
+`conda env create -f path/to/your/folder/environment.yml`. 
+You can check the path to the file in file's properties (right-click on the file) and copy & paste in in the command line.
+
+Then before you start working with Spyder or Jupyter notebook, run `source activate gep662` (on Mac) or `activate gep662` (on Widnows). 
